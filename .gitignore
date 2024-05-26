@@ -1,0 +1,4 @@
+node_modules/
+public/admin/bower.json
+public/admin/dist
+public/admin/plugins
